@@ -10,7 +10,7 @@ Wiring is essential for the library to work properly, so please be sure to conne
 
 ## Installation
 
-Download this repository as a .zip file, or []click this](https://github.com/imTDB/Arduino-L298N/archive/master.zip) to download it directly. Then go to the Arduino IDE, once there go to `Sketch -> Include library -> Add .ZIP Library` to have it ready to use.
+Download this repository as a .zip file, or [click this](https://github.com/imTDB/Arduino-L298N/archive/master.zip) to download it directly. Then go to the Arduino IDE, once there go to `Sketch -> Include library -> Add .ZIP Library` to have it ready to use.
 
 
 ## Usage
