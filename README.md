@@ -10,7 +10,7 @@ Wiring is essential for the library to work properly, so please be sure to conne
 
 ## Installation
 
-Download this repository as a .zip file and then go to the Arduino IDE, once there go to `Sketch -> Include library -> Add .ZIP Library` to have it ready to use.
+Download this repository as a .zip file, or []click this](https://github.com/imTDB/Arduino-L298N/archive/master.zip) to download it directly. Then go to the Arduino IDE, once there go to `Sketch -> Include library -> Add .ZIP Library` to have it ready to use.
 
 
 ## Usage
@@ -43,10 +43,11 @@ If you have any problem working with the library post it on [Issues](https://git
 
 ## Things to add
 
-- [] Add PWM support.
-- [] Add 2 motors support.
-- [] Translate README into Spanish.
-- [] Add more examples.
+- [ ] Add PWM support.
+- [ ] Add 2 motors support.
+- [ ] Translate README into Spanish.
+- [ ] Add more examples.
+
 
 
 ## License
@@ -55,4 +56,5 @@ Working on that.
 
 ---
 Stars and forks are aprecciated :star:
+
 ⌨️ with ❤️ por [@tadeodonegana](https://twitter.com/tadeodonegana).
