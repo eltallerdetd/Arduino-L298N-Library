@@ -1,10 +1,8 @@
 # L298N Arduino Motors Driver Library
 
-An Open Source library for Arduino and the L298N driver module. Ready to work with 4 motors.
+An Open Source library for Arduino and the L298N driver module.
 
 ## Important Information
-
-This library is especially designed to work with 4 motors connected to the L298N, currently it doesn't support only 2 of them.
 
 Wiring is essential for the library to work properly, so please be sure to connect your motors in the right way or the methods can doesn't work as expected.
 
@@ -44,7 +42,6 @@ If you have any problem working with the library post it on [Issues](https://git
 ## Things to add
 
 - [ ] Add PWM support.
-- [ ] Add 2 motors support.
 - [ ] Translate README into Spanish.
 - [ ] Add more examples.
 
