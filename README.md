@@ -53,5 +53,3 @@ Working on that.
 
 ---
 Stars and forks are aprecciated :star:
-
-⌨️ with ❤️ por [@tadeodonegana](https://twitter.com/tadeodonegana).
